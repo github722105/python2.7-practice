@@ -1,0 +1,6 @@
+If you are not sure whether vim is in Input mode, press the ESCAPE
+key; vim returns to Command mode if it was in Input mode or beeps,
+flashes, or does nothing if it is already in Command mode. You can
+put vim back in Input mode by pressing the i or a key again.
+
+Starting from the top of the next page.
