@@ -1,5 +1,6 @@
 # Implementation of rock-paper-scissors-lizard-Spock using
 # Math's modulo operator.
+# http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock
 
 import random
 
